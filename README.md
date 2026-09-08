@@ -1,7 +1,7 @@
 # MMDOK
 This is a PyTorch implementation of the paper MMDOK: A Multi-modal and Multi-scale Disease-oriented Fusion Framework with Kolmogorov-Arnold Networks
 
-![Overall Framework](README_img/overallframework.png)
+![Overall Framework](./README_img/overallframework.png)
 
 ## Install
 ```
